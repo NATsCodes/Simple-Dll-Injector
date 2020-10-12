@@ -8,4 +8,4 @@ dllinject.exe [Process ID] [Dll path]
 note:
 -
 I have provided you with a 64 and a 32 bit versions of the injector as well as a test dll named "Hello World.dll.  
-The test dll when executed will display a messege box.
+The test dll when attached will display a messege box.
